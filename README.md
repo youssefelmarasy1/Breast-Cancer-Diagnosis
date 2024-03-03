@@ -4,11 +4,6 @@
 
 This project aims to diagnose breast cancer using a KNN classifier. It involves preprocessing the dataset, optimizing the KNN algorithm, and evaluating its performance.
 
-## Installation
-
-```bash
-pip install scikit-learn
-```
 
 ## Usage
 
