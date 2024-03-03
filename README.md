@@ -7,7 +7,7 @@ This project aims to diagnose breast cancer using a KNN classifier. It involves 
 ## Installation
 
 ```bash
-pip install --upgrade scikit-learn
+pip install scikit-learn
 ```
 
 ## Usage
@@ -38,4 +38,4 @@ pip install --upgrade scikit-learn
 
 ## Credits
 
-This project was developed by [Youssef Elmarasy].
+This project was developed by Youssef Elmarasy.
